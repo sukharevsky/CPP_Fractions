@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : MathWorks_Assignment.cpp
+// Name        : fractions_demo.cpp
 // Author      : Alex Sukharevsky
 // Version     :
 // Copyright   : LHASA LLC
